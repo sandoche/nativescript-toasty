@@ -1,0 +1,19 @@
+{
+  "name": "nativescript-toasty",
+  "version": "1.0.0",
+  "description": "[![npm](https://img.shields.io/npm/v/nativescript-toasty.svg)](https://www.npmjs.com/package/nativescript-toasty) [![npm](https://img.shields.io/npm/dt/nativescript-toasty.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-toasty)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandoche/nativescript-toasty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandoche/nativescript-toasty/issues"
+  },
+  "homepage": "https://github.com/sandoche/nativescript-toasty#readme"
+}
